@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@theme {
+  --color-: #001f3f; 
+     --font-primary: "Open Sans", sans-serif;  
+} 

@@ -1,0 +1,16 @@
+<svg width="180" height="60" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="jobberGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"></stop>   <!-- blue -->
+      <stop offset="100%" stop-color="#f97316"></stop> <!-- orange -->
+    </linearGradient>
+  </defs>
+
+  <!-- Text -->
+  <text x="50%" y="60%" text-anchor="middle" font-size="40" font-family="Poppins, Arial, sans-serif" font-weight="700" fill="url(#jobberGrad)">
+    Jobber
+  </text>
+
+  <!-- Underline -->
+  <line x1="80" y1="75" x2="220" y2="75" stroke="url(#jobberGrad)" stroke-width="3" stroke-linecap="round"></line>
+</svg>
